@@ -6,7 +6,7 @@ import plotly.figure_factory as p
 
 data_path="data/"
 
-df=pd.read_csv("iris.csv")
+df=pd.read_csv("Iris.csv")
 
 st.title("IRIS Dashboard")
 
